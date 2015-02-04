@@ -1,0 +1,9 @@
+2012-08-02T11:58:06-0700: https://gcc.gnu.org/ml/gcc/2012-08/msg00015.html
+2008-06-18T00:00:00-0000: http://airs.com/ian/cxx-slides.pdf
+
+
+After 2012-08-02T11:58:06-0700:
+
+Commits: 18088
+Insertions: 4050566
+Deletions: 2238396

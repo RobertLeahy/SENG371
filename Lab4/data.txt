@@ -2,6 +2,18 @@
 2008-06-18T00:00:00-0000: http://airs.com/ian/cxx-slides.pdf
 
 
+First Commit:
+
+Wed Nov 23 07:17:23 1988 +0000
+
+
+Total:
+
+Commits: 136308
+Insertions: 34994757
+Deletions: 20302070
+
+
 After 2012-08-02T11:58:06-0700:
 
 Commits: 18088

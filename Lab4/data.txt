@@ -19,6 +19,10 @@ After 2012-08-02T11:58:06-0700:
 Commits: 18088
 Insertions: 4050566
 Deletions: 2238396
+Duration: 903 days
+Commits/day: 20
+Insertions/day: 4486
+Deletions/day: 2479
 
 
 Between 2008-06-18T00:00:00-0000 and 2012-08-02T11:58:06-0700:
@@ -26,6 +30,10 @@ Between 2008-06-18T00:00:00-0000 and 2012-08-02T11:58:06-0700:
 Commits: 30170
 Insertions: 8483389
 Deletions: 5495633
+Duration: 1506 days
+Commits/day: 20
+Insertions/day: 5633
+Deletions/day: 3649
 
 
 Before 2008-06-18T00:00:00-0000:
@@ -33,3 +41,7 @@ Before 2008-06-18T00:00:00-0000:
 Commits: 88050
 Insertions: 22460802
 Deletions: 12568041
+Duration: 7147 days
+Commits/day: 12
+Insertions/day: 3143
+Deletions/day: 1759

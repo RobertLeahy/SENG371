@@ -26,3 +26,10 @@ Between 2008-06-18T00:00:00-0000 and 2012-08-02T11:58:06-0700:
 Commits: 30170
 Insertions: 8483389
 Deletions: 5495633
+
+
+Before 2008-06-18T00:00:00-0000:
+
+Commits: 88050
+Insertions: 22460802
+Deletions: 12568041

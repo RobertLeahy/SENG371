@@ -27,6 +27,8 @@ This transition is deemed to have begun with [this presentation](http://airs.com
 	3.	During the C++ transition
 	4.	After the C++ transition  
 	Compare and contrast this data, and determine if the expectations hold.
+2.	Gather information for time between minor releases (i.e. versions within a major version number) before and after the transition.  The time between minor releases increasing likely indicates a more stable code base, which may indicate benefits from the paradigm shift.
+3.	Gather information for time between major releases (i.e. releases which change the major version number) before and after the transition.  Major version numbers may indicate major reworks of the product (i.e. major feature additions/removals), or substantial rewrites.  It is difficult to draw conclusions from this, but it may be interesting to contrast with results from methodology #2.
 
 ## Milestones
 
@@ -97,3 +99,19 @@ We observe from the data the following:
 - During the transition period there were more insertions and more deletions, however the code base grew at a slightly lower rate, meaning that code was being replaced/rewritten as part of the transition
 - After the transition less code had to be written once the rate of contribution (i.e. commits per time period) were adjusted, meaning that the paradigm/language/library shift likely paid off in terms of lower programmer workload
 - After the transition the code base is growing at a slower rate than before, which will likely keep the code base manageable for longer
+
+### Methodology 2
+
+Before the C++ transition GCC had 120 minor releases, with an average of 68.1 days between releases.
+
+During the C++ transition GCC had 25 minor releases, with an average of 63 days between releases.
+
+After the C++ transition GCC had 9 minor releases, with an average of 84 days between releases.
+
+This is consistent with our expectation: Changing paradigms correllated with (and perhaps caused) a less frequent need to perform minor releases.
+
+### Methodology 3
+
+Before the transition there were 4 major releases of GCC: 1.0, 2.0, 3.0, and 4.0.  The times between these releases were 1736 days, 3404 days, and 1402 days, respectively.  This is an average time between major releases of 2180.7 days.
+
+Since the transition there have been no major releases.  3595 days as of the time of this writing.  4.8.0 was the first version of GCC which could not be built without a C++ compiler (released 702 days ago).
